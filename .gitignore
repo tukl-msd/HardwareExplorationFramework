@@ -1,0 +1,13 @@
+
+*.log
+.DS_Store
+Thumbs.db
+*.pyc
+*.pyo
+__pycache__/
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+build/
+dist/
