@@ -13,7 +13,7 @@ This repository contains two primary folders:
     - For detailed instructions on how to use the toolkit, please refer to the **detailed README** provided inside this folder.
 
 2. **Hardware Library Folder**:
-    - This folder contains a **modified version of the FINN HLS library**.
+    - This folder contains a **modified version of the [FINN HLS](https://github.com/Xilinx/finn-hlslib) library**.
     - The library has been updated to add support for various variations of convolution layers and activation functions.
     - A more **abstract README** is provided within the folder, summarizing the modifications and usage of the library.
 
@@ -26,7 +26,7 @@ This repository contains two primary folders:
 
 ## Current Limitations
 
-This is an **initial version** of the toolkit and library and is **not fully complete**. However, the existing functionality is already capable of producing usable HLS code for certain types of models, particularly the UNet model. Future updates will aim to improve the toolkit's capabilities, supporting more complex models and optimizations.
+This is an **initial version** of the toolkit and library and is **not fully complete**. However, the existing functionality can already produce usable HLS code for certain types of models, particularly the UNet model. Future updates will improve the toolkit's capabilities, supporting more complex models and optimizations.
 
 ## Future Work
 
