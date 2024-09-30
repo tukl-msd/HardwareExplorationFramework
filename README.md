@@ -15,7 +15,6 @@ This repository contains two primary folders:
 2. **Hardware Library Folder**:
     - This folder contains a **modified version of the FINN HLS library**.
     - The library has been updated to support various variations of convolution layers and activation functions.
-    - A more **abstract README** is provided within the folder, summarizing the modifications and usage of the library.
 
 ## Key Features
 
